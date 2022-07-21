@@ -6,13 +6,14 @@
 </template>
 
 <style lang="scss" scoped>
-@import '@/styles/token';
+@import '@/styles/mixins';
 
 .cta-link {
     display: inline-flex;
 
     &:hover &__icon {
         @include m-l-2;
+        @include color-primary-100;
     }
 }
 </style>

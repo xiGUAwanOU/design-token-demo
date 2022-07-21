@@ -8,15 +8,15 @@
       />
 
       <div class="p-3">
-        <div class="t-caption">
+        <div class="t-caption color-ink-100">
           Crazy Norwegians
         </div>
 
-        <div class="t-title-l m-t-1">
+        <div class="t-title-l m-t-1 color-ink-100">
           BATHING IN SPEEDOS IS GOOD FOR YOU
         </div>
 
-        <div class="t-paragraph-m m-t-2">
+        <div class="t-paragraph-m m-t-2 color-ink-100">
           You don’t believe us? Obviously, you’ve never experienced
           the tickling feeling of your naked butt touching the refreshing
           waterpools in Tromsø on a cold winter night.
@@ -36,15 +36,15 @@
       />
 
       <div class="p-2">
-        <div class="t-caption">
+        <div class="t-caption color-ink-100">
           Crazy Norwegians
         </div>
 
-        <div class="m-t-1 t-title-l">
+        <div class="m-t-1 t-title-l color-ink-100">
           BATHING IN SPEEDOS IS GOOD FOR YOU
         </div>
 
-        <div class="t-paragraph-m m-t-2">
+        <div class="t-paragraph-m m-t-2 color-ink-100">
           You don’t believe us? Obviously, you’ve never experienced
           the tickling feeling of your naked butt touching the refreshing
           waterpools in Tromsø on a cold winter night.

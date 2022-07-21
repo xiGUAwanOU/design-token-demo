@@ -8,7 +8,7 @@
 </template>
 
 <style lang="scss" scoped>
-@import '@/styles/token';
+@import '@/styles/mixins';
 
 .cta-button {
     border: none;

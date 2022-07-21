@@ -1,0 +1,156 @@
+{
+    "colors": {
+        "prefix": "color",
+        "attributes": {
+            "": "color",
+            "bg": "background-color"
+        },
+        "values": {
+            "ink-120": "#FFFFFF",
+            "ink-100": "#F8F9FA",
+            "ink-80": "#495057",
+            "ink-60": "#CED4DA",
+            "neutral-30": "#646C74",
+            "neutral-20": "#495057",
+            "neutral-10": "#212529",
+            "neutral-0": "#1C1C1E",
+            "primary-100": "#F564AA",
+            "primary-80": "#F2308E",
+            "primary-60": "#AF1E65"
+        }
+    },
+    "margins": {
+        "prefix": "m",
+        "attributes": {
+            "": "margin",
+            "t": "margin-top",
+            "b": "margin-bottom",
+            "l": "margin-left",
+            "r": "margin-right"
+        },
+        "values": {
+            "1": "8px",
+            "2": "16px",
+            "3": "24px"
+        }
+    },
+    "paddings": {
+        "prefix": "p",
+        "attributes": {
+            "": "padding",
+            "t": "padding-top",
+            "b": "padding-bottom",
+            "l": "padding-left",
+            "r": "padding-right"
+        },
+        "values": {
+            "1": "8px",
+            "2": "16px",
+            "3": "24px"
+        }
+    },
+    "widths": {
+        "prefix": "w",
+        "attributes": "width",
+        "values": {
+            "full": "100%"
+        }
+    },
+    "typography": {
+        "prefix": "t",
+        "attributes": [
+            "font-family",
+            "font-weight",
+            "font-size",
+            "line-height"
+        ],
+        "values": {
+            "title-xl": [
+                "'Inter', sans-serif",
+                "bold",
+                "38px",
+                "48px"
+            ],
+            "title-l": [
+                "'Inter', sans-serif",
+                "bold",
+                "30px",
+                "40px"
+            ],
+            "title-m": [
+                "'Inter', sans-serif",
+                "bold",
+                "24px",
+                "32px"
+            ],
+            "title-s": [
+                "'Inter', sans-serif",
+                "bold",
+                "16px",
+                "24px"
+            ],
+            "paragraph-m": [
+                "'Inter', sans-serif",
+                "",
+                "16px",
+                "24px"
+            ],
+            "caption-bold": [
+                "'Inter', sans-serif",
+                "bold",
+                "13px",
+                "16px"
+            ],
+            "caption": [
+                "'Inter', sans-serif",
+                "",
+                "13px",
+                "16px"
+            ]
+        }
+    },
+    "borders": {
+        "prefix": "bordered",
+        "attributes": "border",
+        "values": {
+            "": "1px solid #CED4DA",
+            "transparent": "1px solid transparent"
+        }
+    },
+    "rounded edges": {
+        "prefix": "rounded",
+        "attributes": {
+            "": "border-radius",
+            "tr": "border-top-right-radius",
+            "br": "border-bottom-right-radius",
+            "bl": "border-bottom-left-radius",
+            "tl": "border-top-left-radius"
+        },
+        "values": {
+            "": "8px",
+            "embedded": "4px"
+        }
+    },
+    "shadows": {
+        "prefix": "shadowed",
+        "attributes": "box-shadow",
+        "values": {
+            "": "0px 2px 6px rgba(0, 0, 0, 0.2)"
+        }
+    },
+    "animations": {
+        "prefix": "animated",
+        "attributes": "transition-duration",
+        "values": {
+            "": "50ms",
+            "slow": "300ms"
+        }
+    },
+    "cursor styles": {
+        "prefix": "cursor",
+        "attributes": "cursor",
+        "values": {
+            "pointer": "pointer"
+        }
+    }
+}

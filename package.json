@@ -9,7 +9,12 @@
     "lint": "vue-cli-service lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook -o docs/storybook",
+    "build-token": "npm run build-token:util-class && npm run build-token:scss-mixin",
     "build-token:util-class": "ts-node src/styles/generate-tokens.ts src/styles/token.json util-class > src/styles/utilities.css",
+    "build-token:scss-mixin": "ts-node src/styles/generate-tokens.ts src/styles/token.json scss-mixin > src/styles/_mixins.scss",
+    "build-token-dark": "npm run build-token-dark:util-class && npm run build-token-dark:scss-mixin",
+    "build-token-dark:util-class": "ts-node src/styles/generate-tokens.ts src/styles/token-dark.json util-class > src/styles/utilities.css",
+    "build-token-dark:scss-mixin": "ts-node src/styles/generate-tokens.ts src/styles/token-dark.json scss-mixin > src/styles/_mixins.scss",
     "release": "rm -rf docs/main docs/storybook && npm run build && npm run build-storybook"
   },
   "dependencies": {
