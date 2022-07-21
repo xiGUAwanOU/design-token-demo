@@ -262,6 +262,9 @@
 .animated {
   transition-duration: 50ms;
 }
+.animated-slow {
+  transition-duration: 300ms;
+}
 
 /* Token set: cursor styles */
 .cursor-pointer {
