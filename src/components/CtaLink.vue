@@ -6,11 +6,13 @@
 </template>
 
 <style lang="scss" scoped>
+@import '@/styles/token';
+
 .cta-link {
     display: inline-flex;
 
     &:hover &__icon {
-        transform: translate(8px, 0);
+        @include m-l-2;
     }
 }
 </style>

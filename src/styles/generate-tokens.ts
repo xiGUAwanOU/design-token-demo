@@ -1,4 +1,5 @@
 import * as fs from 'fs';
+import generateScssMixin from './generate-scss-mixin';
 import generateUtilClass from './generate-util-class';
 import { TokenDefinitions, TokenOutputGenerator } from './token.types';
 
@@ -23,6 +24,7 @@ function printUsage(errorMessage = ''): void {
 
 const outputGenerators: Record<string, TokenOutputGenerator> = {
   'util-class': generateUtilClass,
+  'scss-mixin': generateScssMixin,
 };
 
 async function main(argv: string[]): Promise<number> {

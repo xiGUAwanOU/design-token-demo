@@ -8,11 +8,13 @@
 </template>
 
 <style lang="scss" scoped>
+@import '@/styles/token';
+
 .cta-button {
     border: none;
 
     &:hover {
-      background-color: #891B55;
+      @include color-bg-primary-100;
     }
 }
 </style>
