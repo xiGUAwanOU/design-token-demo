@@ -1,0 +1,270 @@
+/* Token set: colors */
+.color-ink-120 {
+  color: #1C1C1E;
+}
+.color-ink-100 {
+  color: #212529;
+}
+.color-ink-80 {
+  color: #495057;
+}
+.color-ink-60 {
+  color: #646C74;
+}
+.color-neutral-30 {
+  color: #CED4DA;
+}
+.color-neutral-20 {
+  color: #F1F3F5;
+}
+.color-neutral-10 {
+  color: #F8F9FA;
+}
+.color-neutral-0 {
+  color: #FFFFFF;
+}
+.color-primary-100 {
+  color: #891B55;
+}
+.color-primary-80 {
+  color: #AF1E65;
+}
+.color-primary-60 {
+  color: #D41370;
+}
+.color-primary-10 {
+  color: #F9F3F6;
+}
+.color-bg-ink-120 {
+  background-color: #1C1C1E;
+}
+.color-bg-ink-100 {
+  background-color: #212529;
+}
+.color-bg-ink-80 {
+  background-color: #495057;
+}
+.color-bg-ink-60 {
+  background-color: #646C74;
+}
+.color-bg-neutral-30 {
+  background-color: #CED4DA;
+}
+.color-bg-neutral-20 {
+  background-color: #F1F3F5;
+}
+.color-bg-neutral-10 {
+  background-color: #F8F9FA;
+}
+.color-bg-neutral-0 {
+  background-color: #FFFFFF;
+}
+.color-bg-primary-100 {
+  background-color: #891B55;
+}
+.color-bg-primary-80 {
+  background-color: #AF1E65;
+}
+.color-bg-primary-60 {
+  background-color: #D41370;
+}
+.color-bg-primary-10 {
+  background-color: #F9F3F6;
+}
+
+/* Token set: margins */
+.m-1 {
+  margin: 8px;
+}
+.m-2 {
+  margin: 16px;
+}
+.m-3 {
+  margin: 24px;
+}
+.m-t-1 {
+  margin-top: 8px;
+}
+.m-t-2 {
+  margin-top: 16px;
+}
+.m-t-3 {
+  margin-top: 24px;
+}
+.m-b-1 {
+  margin-bottom: 8px;
+}
+.m-b-2 {
+  margin-bottom: 16px;
+}
+.m-b-3 {
+  margin-bottom: 24px;
+}
+.m-l-1 {
+  margin-left: 8px;
+}
+.m-l-2 {
+  margin-left: 16px;
+}
+.m-l-3 {
+  margin-left: 24px;
+}
+.m-r-1 {
+  margin-right: 8px;
+}
+.m-r-2 {
+  margin-right: 16px;
+}
+.m-r-3 {
+  margin-right: 24px;
+}
+
+/* Token set: paddings */
+.p-1 {
+  padding: 8px;
+}
+.p-2 {
+  padding: 16px;
+}
+.p-3 {
+  padding: 24px;
+}
+.p-t-1 {
+  padding-top: 8px;
+}
+.p-t-2 {
+  padding-top: 16px;
+}
+.p-t-3 {
+  padding-top: 24px;
+}
+.p-b-1 {
+  padding-bottom: 8px;
+}
+.p-b-2 {
+  padding-bottom: 16px;
+}
+.p-b-3 {
+  padding-bottom: 24px;
+}
+.p-l-1 {
+  padding-left: 8px;
+}
+.p-l-2 {
+  padding-left: 16px;
+}
+.p-l-3 {
+  padding-left: 24px;
+}
+.p-r-1 {
+  padding-right: 8px;
+}
+.p-r-2 {
+  padding-right: 16px;
+}
+.p-r-3 {
+  padding-right: 24px;
+}
+
+/* Token set: widths */
+.w-full {
+  width: 100%;
+}
+
+/* Token set: typography */
+.t-title-xl {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 48px;
+}
+.t-title-l {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 40px;
+}
+.t-title-m {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 32px;
+}
+.t-title-s {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+}
+.t-paragraph-m {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+.t-caption-bold {
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+}
+.t-caption {
+  font-family: 'Inter', sans-serif;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+/* Token set: borders */
+.bordered {
+  border: 1px solid #CED4DA;
+}
+.bordered-transparent {
+  border: 1px solid transparent;
+}
+
+/* Token set: rounded edges */
+.rounded {
+  border-radius: 8px;
+}
+.rounded-embedded {
+  border-radius: 4px;
+}
+.rounded-tr {
+  border-top-right-radius: 8px;
+}
+.rounded-tr-embedded {
+  border-top-right-radius: 4px;
+}
+.rounded-br {
+  border-bottom-right-radius: 8px;
+}
+.rounded-br-embedded {
+  border-bottom-right-radius: 4px;
+}
+.rounded-bl {
+  border-bottom-left-radius: 8px;
+}
+.rounded-bl-embedded {
+  border-bottom-left-radius: 4px;
+}
+.rounded-tl {
+  border-top-left-radius: 8px;
+}
+.rounded-tl-embedded {
+  border-top-left-radius: 4px;
+}
+
+/* Token set: shadows */
+.shadowed {
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Token set: animations */
+.animated {
+  transition-duration: 50ms;
+}
+
+/* Token set: cursor styles */
+.cursor-pointer {
+  cursor: pointer;
+}
+

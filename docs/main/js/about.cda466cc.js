@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdesign_token_demo"]=self["webpackChunkdesign_token_demo"]||[]).push([[443],{4916:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var s=t(3396);const u={class:"about"},a=(0,s._)("h1",null,"This is an about page",-1),o=[a];function r(n,e){return(0,s.wg)(),(0,s.iD)("div",u,o)}var i=t(7477);const c={},d=(0,i.Z)(c,[["render",r]]);var f=d}}]);
-//# sourceMappingURL=about.cda466cc.js.map
