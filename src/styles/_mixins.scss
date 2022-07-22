@@ -255,6 +255,9 @@
 
 // Token set: shadows
 @mixin shadowed {
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.05);;
+}
+@mixin shadowed-dark {
   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
 }
 
